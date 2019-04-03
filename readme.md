@@ -6,4 +6,4 @@
 
 ## Git is a mutable index called stage
 
-## Git tracks changes..
+## Git tracks change of files.
