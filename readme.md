@@ -8,4 +8,6 @@
 
 ## Git tracks change of files.
 
-### Creating a new branch is quick and simple
+### Creating a new branch is quick and simple.
+
+### add merge.
